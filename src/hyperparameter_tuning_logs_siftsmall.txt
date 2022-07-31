@@ -1,0 +1,80 @@
+n = 4, c = 8
+Compressing the base vectors took 1.9492127895355225 seconds.
+Compressed data bytes: 40000Subvector centroids bytes: 131072Predicting the (100, 128) query took 0.04444241523742676 seconds.
+recall = 0.5830000000000001
+
+n = 4, c = 9
+Compressing the base vectors took 2.5402278900146484 seconds.
+Compressed data bytes: 80000Subvector centroids bytes: 262144Predicting the (100, 128) query took 0.09148812294006348 seconds.
+recall = 0.6293
+
+n = 4, c = 10
+Compressing the base vectors took 4.834901809692383 seconds.
+Compressed data bytes: 80000Subvector centroids bytes: 524288Predicting the (100, 128) query took 0.08847713470458984 seconds.
+recall = 0.67
+
+n = 4, c = 11
+Compressing the base vectors took 8.209285259246826 seconds.
+Compressed data bytes: 80000Subvector centroids bytes: 1048576Predicting the (100, 128) query took 0.12196874618530273 seconds.
+recall = 0.7268000000000001
+
+n = 8, c = 8
+Compressing the base vectors took 3.9049837589263916 seconds.
+Compressed data bytes: 80000Subvector centroids bytes: 131072Predicting the (100, 128) query took 0.0976572036743164 seconds.
+recall = 0.7019999999999998
+
+n = 8, c = 9
+Compressing the base vectors took 6.308787107467651 seconds.
+Compressed data bytes: 160000Subvector centroids bytes: 262144Predicting the (100, 128) query took 0.1236875057220459 seconds.
+recall = 0.7360000000000001
+
+n = 8, c = 10
+Compressing the base vectors took 10.400324583053589 seconds.
+Compressed data bytes: 160000Subvector centroids bytes: 524288Predicting the (100, 128) query took 0.13141322135925293 seconds.
+recall = 0.7785
+
+n = 8, c = 11
+Compressing the base vectors took 21.997271060943604 seconds.
+Compressed data bytes: 160000Subvector centroids bytes: 1048576Predicting the (100, 128) query took 0.18935465812683105 seconds.
+recall = 0.8219
+
+n = 16, c = 8
+Compressing the base vectors took 6.4331676959991455 seconds.
+Compressed data bytes: 160000Subvector centroids bytes: 131072Predicting the (100, 128) query took 0.14064955711364746 seconds.
+recall = 0.805
+
+n = 16, c = 9
+Compressing the base vectors took 11.268823146820068 seconds.
+Compressed data bytes: 320000Subvector centroids bytes: 262144Predicting the (100, 128) query took 0.19730854034423828 seconds.
+recall = 0.8441999999999998
+
+n = 16, c = 10
+Compressing the base vectors took 21.73280954360962 seconds.
+Compressed data bytes: 320000Subvector centroids bytes: 524288Predicting the (100, 128) query took 0.26663947105407715 seconds.
+recall = 0.8721
+
+n = 16, c = 11
+Compressing the base vectors took 46.35772466659546 seconds.
+Compressed data bytes: 320000Subvector centroids bytes: 1048576Predicting the (100, 128) query took 0.23907256126403809 seconds.
+recall = 0.9016
+
+n = 32, c = 8
+Compressing the base vectors took 11.010083436965942 seconds.
+Compressed data bytes: 320000Subvector centroids bytes: 131072Predicting the (100, 128) query took 0.3392958641052246 seconds.
+recall = 0.8858999999999998
+
+n = 32, c = 9
+Compressing the base vectors took 20.19395661354065 seconds.
+Compressed data bytes: 640000Subvector centroids bytes: 262144Predicting the (100, 128) query took 0.2796967029571533 seconds.
+recall = 0.9181
+
+n = 32, c = 10
+Compressing the base vectors took 38.33417558670044 seconds.
+Compressed data bytes: 640000Subvector centroids bytes: 524288Predicting the (100, 128) query took 0.5028440952301025 seconds.
+recall = 0.9395000000000002
+
+n = 32, c = 11
+Compressing the base vectors took 85.77817177772522 seconds.
+Compressed data bytes: 640000Subvector centroids bytes: 1048576Predicting the (100, 128) query took 0.6383340358734131 seconds.
+recall = 0.9590999999999998
+
